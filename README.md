@@ -12,8 +12,8 @@ This portfolio contains comprehensive documentation of security projects spannin
     - - **Logging Best Practices** - Comprehensive logging strategies and OS-specific configurations
       - - **Detection Engineering** - Detection capability design and network behavior analysis
         - - **Penetration Testing** - Security assessment reports and remediation tracking
-          - ### 1. [Governance, Risk & Compliance (GRC)](./01-GRC/)
          
+          - 
           - Demonstrates expertise in developing security policies, conducting risk assessments, and analyzing real-world security breaches to derive lessons learned and improvement strategies.
          
           - **Key Deliverables:**
