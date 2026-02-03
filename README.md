@@ -12,16 +12,18 @@ This portfolio contains comprehensive documentation of security projects spannin
 - **Logging Best Practices** - Comprehensive logging strategies and OS-specific configurations
 - **Detection Engineering** - Detection capability design and network behavior analysis
 - **Penetration Testing** - Security assessment reports and remediation tracking
+  
          
-          - 
-          - Demonstrates expertise in developing security policies, conducting risk assessments, and analyzing real-world security breaches to derive lessons learned and improvement strategies.
+  ### 1. [Governance, Risk & Compliance](./01-Governance-Risk-Compliance/)
+
+  Demonstrates expertise in developing security policies, conducting risk assessments, and analyzing real-world security breaches to derive lessons learned and improvement strategies.
          
-          - **Key Deliverables:**
+  - **Key Deliverables:**
           - - Security policies (User Acceptance Policy, Security Logging Policy, etc.)
             - - Risk assessment reports for sample organizations
               - - Real breach analysis and lessons learned documentation
                
-                - **Skills Demonstrated:** Risk management, policy development, compliance frameworks, incident analysis
+  - **Skills Demonstrated:** Risk management, policy development, compliance frameworks, incident analysis
                
                 - ---
 
