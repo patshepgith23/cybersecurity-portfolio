@@ -28,7 +28,6 @@ This portfolio contains comprehensive documentation of security projects spannin
                
   - **Skills Demonstrated:** Risk management, policy development, compliance frameworks, incident analysis
                
-                - ---
 
   ### 2. [Vulnerability Management](./02-Vulnerability-Management/)
 
@@ -44,7 +43,7 @@ This portfolio contains comprehensive documentation of security projects spannin
                      
                       - ---
 
-                      ### 3. [SIEM Security Architecture](./03-SIEM-Architecture/)
+  ### 3. [SIEM Security Architecture](./03-SIEM-Architecture/)
 
                       Comprehensive architecture documentation for large-scale logging and security event management infrastructure, supporting hybrid cloud, on-premises, and lab environments.
 
@@ -56,7 +55,7 @@ This portfolio contains comprehensive documentation of security projects spannin
                        
                         - ---
 
-                        ### 4. [Logging Best Practices](./04-Logging-Best-Practices/)
+  ### 4. [Logging Best Practices](./04-Logging-Best-Practices/)
 
                         Comprehensive guidance on implementing effective logging strategies across diverse environments, including OS-specific configurations and log source selection strategies.
 
@@ -69,7 +68,7 @@ This portfolio contains comprehensive documentation of security projects spannin
                            
                             - ---
 
-                            ### 5. [Detection Engineering](./05-Detection-Engineering/)
+  ### 5. [Detection Engineering](./05-Detection-Engineering/)
 
                             Documentation of detection capability design principles, focusing on understanding system criticality, network relationships, user behaviors, and system interactions to enable effective threat detection.
 
@@ -82,7 +81,7 @@ This portfolio contains comprehensive documentation of security projects spannin
                                
                                 - ---
 
-                                ### 6. [Penetration Testing](./06-Pen-Testing/)
+  ### 6. [Penetration Testing](./06-Pen-Testing/)
 
                                 Documentation of security assessment engagements, focusing on identified findings, remediation tracking, and verification of fixes.
 
@@ -94,14 +93,14 @@ This portfolio contains comprehensive documentation of security projects spannin
                                  
                                   - ---
 
-                                  ## Professional Experience
+  ## Professional Experience
 
-                                  My security expertise is grounded in practical experience at industry-leading organizations:
+  My security expertise is grounded in practical experience at industry-leading organizations:
 
-                                  - **Cisco Systems** - Vulnerability management, risk assessment, and security operations
-                                  - - **Apple** - Security architecture and implementation across enterprise infrastructure
+  - **Cisco Systems** - Vulnerability management, risk assessment, and security operations
+  - **Apple** - Security architecture and implementation across enterprise infrastructure
                                    
-                                    - ## Repository Structure
+ ## Repository Structure
                                    
                                     - ```
                                       cybersecurity-portfolio/
@@ -134,29 +133,27 @@ This portfolio contains comprehensive documentation of security projects spannin
                                       └── README.md (this file)
                                       ```
 
-                                      ## How to Navigate
+## How to Navigate
 
-                                      1. **For Recruiters & Hiring Managers** - Start with the project summaries above, then dive into specific domains that interest you
-                                      2. 2. **For Security Professionals** - Review the detailed documentation, methodologies, and best practices guides
-                                         3. 3. **For Specific Topics** - Use the folder structure above to navigate to areas of interest
-                                           
-                                            4. ## Key Skills & Competencies
-                                           
-                                            5. - Security governance and compliance frameworks
-                                               - - Vulnerability assessment and management
-                                                 - - SIEM and security event management
-                                                   - - Logging architecture and configuration
-                                                     - - Detection engineering and threat analytics
-                                                       - - Penetration testing and security assessments
-                                                         - - Risk assessment and management
-                                                           - - Enterprise security architecture
-                                                             - - Security operations and incident response
-                                                               - - Cross-functional stakeholder communication
-                                                                
-                                                                 - ## Contact
-                                                                
-                                                                 - Feel free to reach out with any questions about the projects or to discuss security topics.
-                                                                
-                                                                 - ---
+1. **For Recruiters & Hiring Managers** - Start with the project summaries above, then dive into specific domains that interest you
+2. **For Security Professionals** - Review the detailed documentation, methodologies, and best practices guides
+3. **For Specific Topics** - Use the folder structure above to navigate to areas of interest
 
-                                                                 **Last Updated:** February 2026
+## Key Skills & Competencies:
+- Security governance and compliance frameworks
+- Vulnerability assessment and management
+- SIEM and security event management
+- Logging architecture and configuration
+- Detection engineering and threat analytics
+- Penetration testing and security assessments
+- Risk assessment and management
+- Enterprise security architecture
+- Security operations and incident response
+- Cross-functional stakeholder communication
+- AI Automation Workflow integrations
+                                                                
+ ## Contact
+                                                                
+  - Feel free to reach out with any questions about the projects or to discuss security topics.
+                                                                
+ **Last Updated:** February 2026
