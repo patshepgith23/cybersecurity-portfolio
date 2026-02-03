@@ -113,38 +113,37 @@ This portfolio contains comprehensive documentation of security projects spannin
   - **Cisco Systems** - Vulnerability management, risk assessment, and security operations
   - **Apple** - Security architecture and implementation across enterprise infrastructure
                                    
- ## Repository Structure
-                                   
-  -
-                                      cybersecurity-portfolio/
-                                      ├── 01-GRC/
-                                      │   ├── README.md
-                                      │   ├── Policies/
-                                      │   ├── Risk-Assessments/
-                                      │   └── Breach-Analysis/
-                                      ├── 02-Vulnerability-Management/
-                                      │   ├── README.md
-                                      │   ├── Assessment-Reports/
-                                      │   ├── Triage-Methodology/
-                                      │   ├── SOPs/
-                                      │   └── Workflows/
-                                      ├── 03-SIEM-Architecture/
-                                      │   ├── README.md
-                                      │   └── Architecture-Diagrams/
-                                      ├── 04-Logging-Best-Practices/
-                                      │   ├── README.md
-                                      │   ├── Best-Practices-Report/
-                                      │   ├── Linux-Configuration/
-                                      │   └── Windows-Configuration/
-                                      ├── 05-Detection-Engineering/
-                                      │   ├── README.md
-                                      │   └── Reports/
-                                      ├── 06-Pen-Testing/
-                                      │   ├── README.md
-                                      │   ├── Bug-Bounty-Reports/
-                                      │   └── External-Pentest-Reports/
-                                      └── README.md (this file)
-                                      ```
+ **## Repository Structure**
+                                       
+  cybersecurity-portfolio/
+  ├── 01-GRC/
+  │   ├── README.md
+  │   ├── Policies/
+  │   ├── Risk-Assessments/
+  │   └── Breach-Analysis/
+  ├── 02-Vulnerability-Management/
+  │   ├── README.md
+  │   ├── Assessment-Reports/
+  │   ├── Triage-Methodology/
+  │   ├── SOPs/
+  │   └── Workflows/
+  ├── 03-SIEM-Architecture/
+  │   ├── README.md
+  │   └── Architecture-Diagrams/
+  ├── 04-Logging-Best-Practices/
+  │   ├── README.md
+  │   ├── Best-Practices-Report/
+  │   ├── Linux-Configuration/
+  │   └── Windows-Configuration/
+  ├── 05-Detection-Engineering/
+  │   ├── README.md
+  │   └── Reports/
+  ├── 06-Pen-Testing/
+  │   ├── README.md
+  │   ├── Bug-Bounty-Reports/
+  │   └── External-Pentest-Reports/
+  └── README.md (this file)
+                              
 
 ## How to Navigate
 
