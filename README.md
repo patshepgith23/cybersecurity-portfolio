@@ -19,9 +19,9 @@ This portfolio contains comprehensive documentation of security projects spannin
   Demonstrates expertise in developing security policies, conducting risk assessments, and analyzing real-world security breaches to derive lessons learned and improvement strategies.
          
   - **Key Deliverables:**
-          - - Security policies (User Acceptance Policy, Security Logging Policy, etc.)
-            - - Risk assessment reports for sample organizations
-              - - Real breach analysis and lessons learned documentation
+    - Security policies (User Acceptance Policy, Security Logging Policy, etc.)
+    - Risk assessment reports for sample organizations
+    - Real breach analysis and lessons learned documentation
                
   - **Skills Demonstrated:** Risk management, policy development, compliance frameworks, incident analysis
                
