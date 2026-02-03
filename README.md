@@ -14,7 +14,7 @@ This portfolio contains comprehensive documentation of security projects spannin
 - **Penetration Testing** - Security assessment reports and remediation tracking
   
          
-  ### 1. [Governance, Risk & Compliance](./01-Governance-Risk-Compliance/)
+  ### 1. [Governance, Risk & Compliance](./01-GRC/)
 
   Demonstrates expertise in developing security policies, conducting risk assessments, and analyzing real-world security breaches to derive lessons learned and improvement strategies.
          
