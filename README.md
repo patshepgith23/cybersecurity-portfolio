@@ -88,15 +88,15 @@ This portfolio contains comprehensive documentation of security projects spannin
   - **Skills Demonstrated:** Vulnerability discovery, remediation verification, risk prioritization, external perspective on security controls
 
 
- ### 6. [AI Automation Workflow Integrations](./07-AI-Automation-Workflows/)
+  ### 7. [AI Automation Workflow Integrations](./07-AI-Automation-Workflows/)
 
   Documentation of AI Automation Workflows into the Cybersecurity workflow processes, such as GRC, Vulnerability Management, and Detection Engineering.
 
   - **Key Deliverables:**
     - VM Triage AI Workflow - Immediate ROI, builds foundational architecture, uses existing data sources.
     - VM Tester AI Automation - Builds on triage system, significant security impact, moderate complexity.
-    - Detection Tester AI Workflow - Critical for security operations, requires careful implementation, can be run parallel to VM projects.
-    - Compliance Checker AI Workflow - Most complex, benefits from learnings of other systems, typically quarterly cadence.
+    - Detection Tester AI Workflow - Critical for security operations, requires careful implementation, can be run in parallel to VM projects.
+    - Compliance Checker AI Workflow - Most complex, benefits from learnings of other systems, typically on a quarterly cadence.
                                  
   - **Skills Demonstrated:** 
     - Strategic AI Implementation - Transforming security operations with measurable business ROI through practical AI automation.
@@ -115,7 +115,7 @@ This portfolio contains comprehensive documentation of security projects spannin
                                    
  ## Repository Structure
                                    
-                                    - ```
+  -
                                       cybersecurity-portfolio/
                                       ├── 01-GRC/
                                       │   ├── README.md
