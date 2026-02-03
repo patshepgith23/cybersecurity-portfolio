@@ -34,64 +34,77 @@ This portfolio contains comprehensive documentation of security projects spannin
   Showcases vulnerability assessment, triage, and remediation processes developed and refined through experience at Cisco Systems. Includes reporting frameworks, SOPs, and workflow documentation.
 
   - **Key Deliverables:**
-    - Vulnerability assessment slide deck with trending metrics (8-week analysis)
+    - Vulnerability assessment slide deck with trending metrics for a small company (8-week analysis)
     - Vulnerability triage methodology documentation
     - Standard Operating Procedures (SOPs) for data handling and communication
-    - Workflow diagrams and process documentation
+    - - Workflow diagrams and process documentation
                      
   - **Skills Demonstrated:** Vulnerability assessment, metrics-driven management, risk prioritization, cross-team communication, data handling and security
                      
-                      - ---
 
   ### 3. [SIEM Security Architecture](./03-SIEM-Architecture/)
 
-                      Comprehensive architecture documentation for large-scale logging and security event management infrastructure, supporting hybrid cloud, on-premises, and lab environments.
+  Comprehensive architecture documentation for large-scale logging and security event management infrastructure, supporting hybrid cloud, on-premises, and lab environments.
 
-                      **Key Deliverables:**
-                      - Architecture diagram: Hybrid cloud/on-prem/lab infrastructure (hosts → centralized logging → SIEM)
-                      - - Architecture diagram: Cloud infrastructure with Splunk Cloud (SC4S, heavy forwarders, universal forwarders)
+  - **Key Deliverables:**
+    - Architecture diagram: Hybrid cloud/on-prem/lab infrastructure (hosts → centralized logging → SIEM)
+    - Architecture diagram: Cloud infrastructure with Splunk Cloud (middle tier, heavy forwarders, universal forwarders)
                        
-                        - **Skills Demonstrated:** Enterprise architecture, logging infrastructure design, cloud security, centralized monitoring, security tool integration
+  - **Skills Demonstrated:** Enterprise architecture, logging infrastructure design, cloud security, centralized monitoring, security tool integration
                        
-                        - ---
 
   ### 4. [Logging Best Practices](./04-Logging-Best-Practices/)
 
-                        Comprehensive guidance on implementing effective logging strategies across diverse environments, including OS-specific configurations and log source selection strategies.
+  Comprehensive guidance on implementing effective logging strategies across diverse environments, including OS-specific configurations and log source selection strategies.
 
-                        **Key Deliverables:**
-                        - Logging best practices comprehensive report
-                        - - Linux logging configuration guide
-                          - - Windows logging configuration guide
+  - **Key Deliverables:**
+    - Logging best practices comprehensive report
+    - Linux logging configuration guide
+    - Windows logging configuration guide
                            
-                            - **Skills Demonstrated:** Log source identification, OS administration, logging strategy, operational security, compliance requirements
+  - **Skills Demonstrated:** Log source identification, OS administration, logging strategy, operational security, compliance requirements
                            
-                            - ---
 
   ### 5. [Detection Engineering](./05-Detection-Engineering/)
 
-                            Documentation of detection capability design principles, focusing on understanding system criticality, network relationships, user behaviors, and system interactions to enable effective threat detection.
+  Documentation of detection capability design principles, focusing on understanding system criticality, network relationships, user behaviors, and system interactions to enable effective threat detection.
 
-                            **Key Deliverables:**
-                            - Comprehensive detection engineering best practices report
-                            - - System and user-level criticality assessment frameworks
-                              - - Network communication mapping and analysis guidance
+  - **Key Deliverables:**
+    - Comprehensive detection engineering best practices report
+    - System and user-level criticality assessment frameworks
+    - Network communication mapping and analysis guidance
                                
-                                - **Skills Demonstrated:** Threat detection, system architecture understanding, data analysis, risk assessment, security engineering
+  - **Skills Demonstrated:** Threat detection, system architecture understanding, data analysis, risk assessment, security engineering
                                
-                                - ---
 
   ### 6. [Penetration Testing](./06-Pen-Testing/)
 
-                                Documentation of security assessment engagements, focusing on identified findings, remediation tracking, and verification of fixes.
+  Documentation of security assessment engagements, focusing on identified findings, remediation tracking, and verification of fixes.
 
-                                **Key Deliverables:**
-                                - Bug bounty retest reports
-                                - - External penetration testing retest reports
+  - **Key Deliverables:**
+    - Bug bounty retest reports
+    - Sample penetration testing reports
                                  
-                                  - **Skills Demonstrated:** Vulnerability discovery, remediation verification, risk prioritization, external perspective on security controls
+  - **Skills Demonstrated:** Vulnerability discovery, remediation verification, risk prioritization, external perspective on security controls
+
+
+ ### 6. [AI Automation Workflow Integrations](./07-AI-Automation-Workflows/)
+
+  Documentation of AI Automation Workflows into the Cybersecurity workflow processes, such as GRC, Vulnerability Management, and Detection Engineering.
+
+  - **Key Deliverables:**
+    - VM Triage AI Workflow - Immediate ROI, builds foundational architecture, uses existing data sources.
+    - VM Tester AI Automation - Builds on triage system, significant security impact, moderate complexity.
+    - Detection Tester AI Workflow - Critical for security operations, requires careful implementation, can be run parallel to VM projects.
+    - Compliance Checker AI Workflow - Most complex, benefits from learnings of other systems, typically quarterly cadence.
                                  
-                                  - ---
+  - **Skills Demonstrated:** 
+    - Strategic AI Implementation - Transforming security operations with measurable business ROI through practical AI automation.
+    - AI/ML Engineering & Prompt Engineering - Practical implementation of LLMs and multi-agent AI systems to solve real security problems, not just theoretical AI knowledge.
+    - Multi-Domain Security Expertise - Deep hands-on knowledge across vulnerability management, detection engineering, compliance, and cloud security.
+    - Technical Architecture & Development - Building production systems with API integration, workflow orchestration, and multi-cloud infrastructure.
+    - QA-Driven Security Leadership - Applying quality engineering principles to security operations for continuous validation and measurable improvement.
+                                 
 
   ## Professional Experience
 
