@@ -2,6 +2,9 @@
 
 Welcome to my cybersecurity portfolio. This repository showcases my professional work and expertise in various security domains, including hands-on experience from my time at Cisco Systems and Apple. The projects here demonstrate practical applications of security principles across governance, architecture, engineering, and operations.
 
+Important Note on Confidentiality: 
+All work samples in this portfolio have been carefully sanitized to protect confidential information. I have removed or anonymized all personally identifiable information (PII), proprietary company data, internal tooling details, and sensitive technical implementations. The examples presented reflect my methodologies, problem-solving approaches, and security expertise while maintaining strict adherence to confidentiality obligations and professional ethics. Where specific technologies or processes were proprietary, I have substituted generic equivalents or described concepts at an appropriate level of abstraction.  
+
 ## Overview
 
 This portfolio contains comprehensive documentation of security projects spanning six major domains:
