@@ -7,11 +7,11 @@ Welcome to my cybersecurity portfolio. This repository showcases my professional
 This portfolio contains comprehensive documentation of security projects spanning six major domains:
 
 - **Governance, Risk & Compliance (GRC)** - Policy development, risk assessment, and breach analysis
-- - **Vulnerability Management** - Reporting, triage methodologies, and data handling procedures
-  - - **SIEM Security Architecture** - Large-scale logging and security event management infrastructure design
-    - - **Logging Best Practices** - Comprehensive logging strategies and OS-specific configurations
-      - - **Detection Engineering** - Detection capability design and network behavior analysis
-        - - **Penetration Testing** - Security assessment reports and remediation tracking
+- **Vulnerability Management** - Reporting, triage methodologies, and data handling procedures
+- **SIEM Security Architecture** - Large-scale logging and security event management infrastructure design
+- **Logging Best Practices** - Comprehensive logging strategies and OS-specific configurations
+- **Detection Engineering** - Detection capability design and network behavior analysis
+- **Penetration Testing** - Security assessment reports and remediation tracking
          
           - 
           - Demonstrates expertise in developing security policies, conducting risk assessments, and analyzing real-world security breaches to derive lessons learned and improvement strategies.
