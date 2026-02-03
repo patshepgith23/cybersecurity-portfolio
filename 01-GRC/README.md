@@ -84,11 +84,12 @@ Comprehensive security policies developed for a sample organization to establish
 
                                                         ## Next Steps
 
-                                                        1. Review the security policies to understand governance frameworks
-                                                        2. 2. Examine risk assessments to see vulnerability analysis methodology
-                                                           3. 3. Study breach analysis reports for incident analysis approaches
-                                                              4. 4. Consider how these practices apply to your organization
-                                                                
-                                                                 5. ---
-                                                                
-                                                                 6. **Created:** February 2026
+                                                        - Review the security policies to understand governance frameworks
+                                                        - - Examine risk assessments to see vulnerability analysis methodology
+                                                          - - Study breach analysis reports for incident analysis approaches
+                                                            - - Consider how these practices apply to your organization
+                                                             
+                                                              - ---
+
+                                                              ## Last Updated
+                                                              February 2026
