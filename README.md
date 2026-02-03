@@ -30,17 +30,17 @@ This portfolio contains comprehensive documentation of security projects spannin
                
                 - ---
 
-                ### 2. [Vulnerability Management](./02-Vulnerability-Management/)
+  ### 2. [Vulnerability Management](./02-Vulnerability-Management/)
 
-                Showcases vulnerability assessment, triage, and remediation processes developed and refined through experience at Cisco Systems. Includes reporting frameworks, SOPs, and workflow documentation.
+  Showcases vulnerability assessment, triage, and remediation processes developed and refined through experience at Cisco Systems. Includes reporting frameworks, SOPs, and workflow documentation.
 
-                **Key Deliverables:**
-                - Vulnerability assessment slide deck with trending metrics (8-week analysis)
-                - - Vulnerability triage methodology documentation
-                  - - Standard Operating Procedures (SOPs) for data handling and communication
-                    - - Workflow diagrams and process documentation
+  - **Key Deliverables:**
+    - Vulnerability assessment slide deck with trending metrics (8-week analysis)
+    - Vulnerability triage methodology documentation
+    - Standard Operating Procedures (SOPs) for data handling and communication
+    - Workflow diagrams and process documentation
                      
-                      - **Skills Demonstrated:** Vulnerability assessment, metrics-driven management, risk prioritization, cross-team communication, data handling and security
+  - **Skills Demonstrated:** Vulnerability assessment, metrics-driven management, risk prioritization, cross-team communication, data handling and security
                      
                       - ---
 
