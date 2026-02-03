@@ -110,15 +110,15 @@ This portfolio contains comprehensive documentation of security projects spannin
 
   My security expertise is grounded in practical experience at industry-leading organizations:
 
-  - **Cisco Systems** - Vulnerability management, risk assessment, and security operations
-  - **Apple** - Security architecture and implementation across enterprise infrastructure
+  - **Cisco Systems** - Vulnerability Management, Security architecture and implementation across enterprise infrastructure, Security Operations, Detection Engineering, Compliance, and Risk Assessment
+  - **Apple** - Vulnerability management, Ticketing, Vulnerability Triage
                                    
- **## Repository Structure**
+    **## Repository Structure**
                                        
-  cybersecurity-portfolio/
-  ├── 01-GRC/
-  │   ├── README.md
-  │   ├── Policies/
+      cybersecurity-portfolio/
+      ├── 01-GRC/
+      │   ├── README.md/
+      │   ├── Policies/
   │   ├── Risk-Assessments/
   │   └── Breach-Analysis/
   ├── 02-Vulnerability-Management/
