@@ -8,61 +8,65 @@ This section demonstrates expertise in security governance, risk assessment, and
 
 ### 1. Security Policies
 
-**Location:** `./Policies/`
+**Location:** `./TBD*-Policies/`
 
 Comprehensive security policies developed for a sample organization to establish governance frameworks:
 
-- **User Acceptance Policy** - Guidelines for acceptable use of company resources
-- **Security Logging Policy** - Standards for security event logging and retention
-- **Additional Policies** - Data classification, incident response, access control, and more
+- **Acceptable Use Policy** - Guidelines for acceptable use of company systems, networks, and data 
+- **User Access Management Policy** - Standards for granting, modifying, reviewing, and revoking user access to company systems and data
+- **User Monitoring Policy** - Guidelines for monitoring user activity to detect misuse, security incidents, and policy violations 
+- **Security Logging & Monitoring Policy** - Standards for security event logging, collection, and ongoing monitoring 
+- **Log Retention Policy** - Requirements for the retention, storage, and secure disposal of system and security logs 
+- **Audit Logging Policy** - Standards for logging audit-relevant activities to support accountability, investigations, and compliance 
+- **SIEM & Alerting Policy** - Guidelines for centralized log correlation, security alerting, and incident escalation
    
-    - **Key Elements:**
+  **Key Elements:**
       - Clear policy objectives and scope
-    - - Roles and responsibilities
-    - - Implementation requirements
-    - - Compliance and enforcement mechanisms
+      - Roles and responsibilities
+      - Implementation requirements
+      - Compliance and enforcement mechanisms
            
 ### 2. Risk Assessment
            
-            - **Location:** `./Risk-Assessments/`
+**Location:** `./TBD*-Risk-Assessments/`
            
-            - Risk assessment reports for hypothetical organizations demonstrating:
+Risk assessment reports for hypothetical organizations demonstrating:
            
-            - - **Asset Identification** - Inventory of organizational assets and their criticality
-              - - **Threat Analysis** - Identification of potential threats and threat actors
-                - - **Vulnerability Assessment** - Discovery of potential weaknesses
-                  - - **Risk Calculation** - Quantitative and qualitative risk analysis
-                    - - **Remediation Recommendations** - Prioritized mitigation strategies
+- **Asset Identification** - Inventory of organizational assets and their criticality
+- **Threat Analysis** - Identification of potential threats and threat actors
+- **Vulnerability Assessment** - Discovery of potential weaknesses
+- **Risk Calculation** - Quantitative and qualitative risk analysis
+- **Remediation Recommendations** - Prioritized mitigation strategies
                      
-                      - Sample organizations analyzed:
-                      - - Small gym franchise
-                        - - Retail pharmacy chain (CVS-like)
-                          - - Technology startup
+   **Sample organizations analyzed:**
+      - Small gym franchise
+      - Retail pharmacy chain (CVS-like)
+      - Technology startup
                            
-                            - ### 3. Real Breach Analysis
+### 3. Real Breach Analysis
                            
-                            - **Location:** `./Breach-Analysis/`
+**Location:** `./TBD*-Breach-Analysis/`
                            
-                            - Analysis of real-world security breaches to derive lessons learned:
+Analysis of real-world security breaches to derive lessons learned:
                            
-                            - - **Breach Overview** - Summary of the incident and timeline
-                              - - **Root Cause Analysis** - Investigation into how the breach occurred
-                                - - **Impact Assessment** - Effects on affected parties
-                                  - - **Lessons Learned** - Key takeaways and preventive measures
-                                    - - **Recommendations** - Security improvements to prevent similar incidents
+- **Breach Overview** - Summary of the incident and timeline
+- **Root Cause Analysis** - Investigation into how the breach occurred
+- **Impact Assessment** - Effects on affected parties
+- **Lessons Learned** - Key takeaways and preventive measures
+- **Recommendations** - Security improvements to prevent similar incidents
                                      
-                                      - ## Key Competencies Demonstrated
+## Key Competencies Demonstrated
                                      
-                                      - - Security policy development and governance
-                                        - - Risk management frameworks (NIST, ISO 27001)
-                                          - - Threat modeling and analysis
-                                            - - Vulnerability assessment methodologies
-                                              - - Business impact analysis
-                                                - - Compliance requirements understanding
-                                                  - - Incident analysis and lessons learned
-                                                    - - Stakeholder communication on risk and compliance
+  - Security policy development and governance
+  - Risk management frameworks (NIST, ISO 27001)
+  - Threat modeling and analysis
+  - Vulnerability assessment methodologies
+  - Business impact analysis
+  - Compliance requirements understanding
+  - Incident analysis and lessons learned
+  - Stakeholder communication on risk and compliance
                                                      
-                                                      - ## File Structure
+## File Structure
                                                      
                                                       - ```
                                                         01-GRC/
@@ -82,14 +86,14 @@ Comprehensive security policies developed for a sample organization to establish
                                                             └── Lessons-Learned.md
                                                         ```
 
-                                                        ## Next Steps
+## Next Steps
 
-                                                        - Review the security policies to understand governance frameworks
-                                                        - - Examine risk assessments to see vulnerability analysis methodology
-                                                          - - Study breach analysis reports for incident analysis approaches
-                                                            - - Consider how these practices apply to your organization
+  - Review the security policies to understand governance frameworks
+  - Examine risk assessments to see vulnerability analysis methodology
+  - Study breach analysis reports for incident analysis approaches
+  - Consider how these practices apply to your organization
                                                              
                                                               - ---
 
-                                                              ## Last Updated
-                                                              February 2026
+## Last Updated
+February 2026
