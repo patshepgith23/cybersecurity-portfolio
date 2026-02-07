@@ -17,7 +17,7 @@ Comprehensive security policies developed for a sample organization to establish
 - **Additional Policies** - Data classification, incident response, access control, and more
    
     - **Key Elements:**
-    - - Clear policy objectives and scope
+      - Clear policy objectives and scope
     - - Roles and responsibilities
     - - Implementation requirements
     - - Compliance and enforcement mechanisms
