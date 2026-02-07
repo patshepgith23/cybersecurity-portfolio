@@ -13,16 +13,16 @@ This section demonstrates expertise in security governance, risk assessment, and
 Comprehensive security policies developed for a sample organization to establish governance frameworks:
 
 - **User Acceptance Policy** - Guidelines for acceptable use of company resources
-- - **Security Logging Policy** - Standards for security event logging and retention
-  - - **Additional Policies** - Data classification, incident response, access control, and more
+- **Security Logging Policy** - Standards for security event logging and retention
+- **Additional Policies** - Data classification, incident response, access control, and more
    
     - **Key Elements:**
     - - Clear policy objectives and scope
-      - - Roles and responsibilities
-        - - Implementation requirements
-          - - Compliance and enforcement mechanisms
+    - - Roles and responsibilities
+    - - Implementation requirements
+    - - Compliance and enforcement mechanisms
            
-            - ### 2. Risk Assessment
+### 2. Risk Assessment
            
             - **Location:** `./Risk-Assessments/`
            
