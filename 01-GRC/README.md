@@ -20,7 +20,7 @@ Comprehensive security policies developed for a sample organization to establish
 - **Audit Logging Policy** - Standards for logging audit-relevant activities to support accountability, investigations, and compliance 
 - **SIEM & Alerting Policy** - Guidelines for centralized log correlation, security alerting, and incident escalation
    
-  **Key Elements:**
+ - **Key Elements:**
       - Clear policy objectives and scope
       - Roles and responsibilities
       - Implementation requirements
@@ -38,7 +38,7 @@ Risk assessment reports for hypothetical organizations demonstrating:
 - **Risk Calculation** - Quantitative and qualitative risk analysis
 - **Remediation Recommendations** - Prioritized mitigation strategies
                      
-   **Sample organizations analyzed:**
+  - **Sample organizations analyzed:**
       - Small gym franchise
       - Retail pharmacy chain (CVS-like)
       - Technology startup
