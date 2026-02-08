@@ -86,9 +86,9 @@ Analysis of real-world security breaches to derive lessons learned:
 │   ├── Pharmacy-Risk-Assessment.md
 │   └── Technology-Startup-Risk-Assessment.md
 └── Breach-Analysis/
-├── [Real Breach 1] Analysis.md
-├── [Real Breach 2] Analysis.md
-└── Lessons-Learned.md
+    ├── [Real Breach 1] Analysis.md
+    ├── [Real Breach 2] Analysis.md
+    └── Lessons-Learned.md
 ```
 
 ## Next Steps
