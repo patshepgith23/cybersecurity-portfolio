@@ -20,11 +20,12 @@ Comprehensive security policies developed for a sample organization to establish
 - **Audit Logging Policy** - Standards for logging audit-relevant activities to support accountability, investigations, and compliance 
 - **SIEM & Alerting Policy** - Guidelines for centralized log correlation, security alerting, and incident escalation
    
- - **Key Elements:**
-      - Clear policy objectives and scope
-      - Roles and responsibilities
-      - Implementation requirements
-      - Compliance and enforcement mechanisms
+    - **Key Elements:**
+       - Clear policy objectives and scope
+       - Roles and responsibilities
+       - Implementation requirements
+       - Compliance and enforcement mechanisms
+       - Compliance Control Mapping (SOC II, ISO, and ISMAP)
            
 ### 2. Risk Assessment
            
@@ -72,9 +73,13 @@ Analysis of real-world security breaches to derive lessons learned:
 01-GRC/
 ├── README.md (this file)
 ├── Policies/
-│   ├── User-Acceptance-Policy.md
-│   ├── Security-Logging-Policy.md
-│   ├── Data-Classification-Policy.md
+│   ├── Acceptance-User-Policy.md
+│   ├── User-Access-Management-Policy.md
+│   ├── User-Monitoring-Policy.md
+│   ├── Security-Logging-&-Monitoring-Policy.md
+│   ├── Log-Retention-Policy.md
+│   ├── Audit-Logging-Policy.md
+│   ├── SIEM-&-Alerting-Policy.md
 │   └── ...
 ├── Risk-Assessments/
 │   ├── Gym-Franchise-Risk-Assessment.md
