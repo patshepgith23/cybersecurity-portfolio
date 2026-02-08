@@ -68,23 +68,23 @@ Analysis of real-world security breaches to derive lessons learned:
                                                      
 ## File Structure
                                                      
-                                                      - ```
-                                                        01-GRC/
-                                                        ├── README.md (this file)
-                                                        ├── Policies/
-                                                        │   ├── User-Acceptance-Policy.md
-                                                        │   ├── Security-Logging-Policy.md
-                                                        │   ├── Data-Classification-Policy.md
-                                                        │   └── ...
-                                                        ├── Risk-Assessments/
-                                                        │   ├── Gym-Franchise-Risk-Assessment.md
-                                                        │   ├── Pharmacy-Risk-Assessment.md
-                                                        │   └── Technology-Startup-Risk-Assessment.md
-                                                        └── Breach-Analysis/
-                                                            ├── [Real Breach 1] Analysis.md
-                                                            ├── [Real Breach 2] Analysis.md
-                                                            └── Lessons-Learned.md
-                                                        ```
+```
+01-GRC/
+├── README.md (this file)
+├── Policies/
+│   ├── User-Acceptance-Policy.md
+│   ├── Security-Logging-Policy.md
+│   ├── Data-Classification-Policy.md
+│   └── ...
+├── Risk-Assessments/
+│   ├── Gym-Franchise-Risk-Assessment.md
+│   ├── Pharmacy-Risk-Assessment.md
+│   └── Technology-Startup-Risk-Assessment.md
+└── Breach-Analysis/
+├── [Real Breach 1] Analysis.md
+├── [Real Breach 2] Analysis.md
+└── Lessons-Learned.md
+```
 
 ## Next Steps
 
@@ -93,7 +93,4 @@ Analysis of real-world security breaches to derive lessons learned:
   - Study breach analysis reports for incident analysis approaches
   - Consider how these practices apply to your organization
                                                              
-                                                              - ---
-
-## Last Updated
-February 2026
+**## Last Updated:** February 2026
