@@ -122,4 +122,4 @@ Detailed architecture diagram for cloud-native logging infrastructure using Splu
                                                                                                      
  
                                                                                                       
-## Last Updated: February 2026
+**Last Updated:** February 2026
