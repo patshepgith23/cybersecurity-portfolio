@@ -89,36 +89,37 @@ Detailed architecture diagram for cloud-native logging infrastructure using Splu
       - Scalability & Performance - Designing for high-volume data streams
       - Security Hardening - Secure configuration of logging infrastructure
                                                                                
-                                                                                - ## File Structure
+## File Structure
                                                                                
-                                                                                - ```
-                                                                                  03-SIEM-Architecture/
-                                                                                  ├── README.md (this file)
-                                                                                  └── Architecture-Diagrams/
-                                                                                      ├── Hybrid-Infrastructure-Architecture.png
-                                                                                      ├── Hybrid-Infrastructure-Architecture.drawio
-                                                                                      ├── Splunk-Cloud-Architecture.png
-                                                                                      └── Splunk-Cloud-Architecture.drawio
-                                                                                  ```
 
-                                                                                  ## Design Principles
+```
+03-SIEM-Architecture/
+├── README.md (this file)
+└── Architecture-Diagrams/
+    ├── Hybrid-Infrastructure-Architecture.png
+    ├── Hybrid-Infrastructure-Architecture.drawio
+    ├── Splunk-Cloud-Architecture.png
+    └── Splunk-Cloud-Architecture.drawio
+```
 
-                                                                                  - **Centralized Logging** - All infrastructure sends logs to centralized platform
-                                                                                  - - **Scalability** - Architecture supports growth in data volume and sources
-                                                                                    - - **Reliability** - Redundancy and failover at each layer
-                                                                                      - - **Security** - Encrypted transmission and secure storage
-                                                                                        - - **Performance** - Optimized data processing and storage
-                                                                                          - - **Compliance** - Log retention and audit trail requirements
-                                                                                            - - **Flexibility** - Support for multiple log sources and formats
+## Design Principles
+
+  - **Centralized Logging** - All infrastructure sends logs to centralized platform
+  - **Scalability** - Architecture supports growth in data volume and sources
+  - **Reliability** - Redundancy and failover at each layer
+  - **Security** - Encrypted transmission and secure storage
+  - **Performance** - Optimized data processing and storage
+  - **Compliance** - Log retention and audit trail requirements
+  - **Flexibility** - Support for multiple log sources and formats
+
+
+## Next Steps
                                                                                              
-                                                                                              - ## Next Steps
-                                                                                             
-                                                                                              - - Review the hybrid infrastructure diagram to understand multi-environment logging
-                                                                                                - - Study the Splunk Cloud architecture for cloud-native monitoring
-                                                                                                  - - Consider how these patterns apply to your infrastructure
-                                                                                                    - - Assess your organization's logging maturity
+  - Review the hybrid infrastructure diagram to understand multi-environment logging
+  - Study the Splunk Cloud architecture for cloud-native monitoring
+  - Consider how these patterns apply to your infrastructure
+  - Assess your organization's logging maturity
                                                                                                      
-                                                                                                      - ---
+ 
                                                                                                       
-                                                                                                      ## Last Updated
-                                                                                                      February 2026
+## Last Updated: February 2026
