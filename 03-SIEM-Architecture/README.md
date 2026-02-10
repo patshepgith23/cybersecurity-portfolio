@@ -14,81 +14,80 @@ Complete architecture diagram illustrating a multi-environment logging and SIEM 
 
 **Components:**
 
-**Data Sources:**
-- Cloud-based hosts and services
-- - On-premises servers and applications
-  - - Lab/Testing environment systems
-    - - Network appliances and security tools
+  - **Data Sources:**
+      - Cloud-based hosts and services
+      - On-premises servers and applications
+      - Lab/Testing environment systems
+      - Network appliances and security tools
      
-      - **Log Collection Layer:**
-      - - Universal Forwarders (Splunk)
-        - - Heavy Forwarders
-          - - Syslog collectors
-            - - API-based log ingestion
+  - **Log Collection Layer:**
+      - Universal Forwarders (Splunk)
+      - Heavy Forwarders
+      - Syslog collectors
+      - API-based log ingestion
              
-              - **Centralized Logging Platform:**
-              - - Log aggregation and parsing
-                - - Data normalization
-                  - - Storage and indexing
-                    - - Retention policies
+  - **Centralized Logging Platform:**
+      - Log aggregation and parsing
+      - Data normalization
+      - Storage and indexing
+      - Retention policies
                      
-                      - **SIEM Platform:**
-                      - - Event processing and correlation
-                        - - Real-time alerting
-                          - - Dashboards and reporting
-                            - - Incident management integration
+  - **SIEM Platform:**
+      - Event processing and correlation
+      - Real-time alerting
+      - Dashboards and reporting
+      - Incident management integration
                              
-                              - **Data Flow:** Host Systems → Log Collection → Centralized Logging → SIEM
+  - **Data Flow:** Host Systems → Log Collection → Centralized Logging → SIEM
                              
-                              - **Skills Demonstrated:** Enterprise architecture, multi-environment integration, log pipeline design, cloud security
+**Skills Demonstrated:** Enterprise architecture, multi-environment integration, log pipeline design, cloud security
                              
-                              - ### 2. Cloud Infrastructure with Splunk Cloud
+### 2. Cloud Infrastructure with Splunk Cloud
                              
-                              - **Location:** `./Architecture-Diagrams/`
+**Location:** `./Architecture-Diagrams/`
                              
-                              - Detailed architecture diagram for cloud-native logging infrastructure using Splunk Cloud:
+Detailed architecture diagram for cloud-native logging infrastructure using Splunk Cloud:
                              
-                              - **Components:**
+**Components:**
                              
-                              - **Collection Methods:**
-                              - - **SC4S** (Splunk Connect for Syslog) - Advanced syslog processing
-                                - - **Heavy Forwarders** - Complex data processing and enrichment
-                                  - - **Universal Forwarders** - Lightweight log collection
-                                    - - **Cloud API collectors** - Native cloud service integration
+  - **Collection Methods:**
+      - **SC4S** (Splunk Connect for Syslog) - Advanced syslog processing
+      - **Heavy Forwarders** - Complex data processing and enrichment
+      - **Universal Forwarders** - Lightweight log collection
+      - **Cloud API collectors** - Native cloud service integration
                                      
-                                      - **Data Processing:**
-                                      - - Line breaking and parsing
-                                        - - Field extraction
-                                          - - Data enrichment and transformation
-                                            - - Compliance filtering
+  - **Data Processing:**
+      - Line breaking and parsing
+      - Field extraction
+      - Data enrichment and transformation
+      - Compliance filtering
                                              
-                                              - **Splunk Cloud:**
-                                              - - Indexing and storage
-                                                - - Search and investigation
-                                                  - - Alert generation
-                                                    - - Dashboard and report generation
+  - **Splunk Cloud:**
+      - Indexing and storage
+      - Search and investigation
+      - Alert generation
+      - Dashboard and report generation
                                                      
-                                                      - **Integration Points:**
-                                                      - - Security orchestration platforms
-                                                        - - Incident response tools
-                                                          - - Ticketing systems
-                                                            - - Third-party security tools
+  - **Integration Points:**
+      - Security orchestration platforms
+      - Incident response tools
+      - Ticketing systems
+      - Third-party security tools
                                                              
-                                                              - **Data Flow:** Cloud Services → Collection Tools → Processing → Splunk Cloud
+  - **Data Flow:** Cloud Services → Collection Tools → Processing → Splunk Cloud
                                                              
-                                                              - **Skills Demonstrated:** Cloud architecture, Splunk implementation, log processing, cloud-native security
+**Skills Demonstrated:** Cloud architecture, Splunk implementation, log processing, cloud-native security
                                                              
-                                                              - ## Key Competencies Demonstrated
-                                                             
-                                                              - - Enterprise Architecture - Designing large-scale distributed systems
-                                                                - - Multi-Environment Design - Supporting cloud, on-prem, and lab infrastructure
-                                                                  - - Log Pipeline Architecture - End-to-end logging solution design
-                                                                    - - SIEM Implementation - Security event management system architecture
-                                                                      - - Cloud Security - Cloud-native security monitoring
-                                                                        - - Data Processing - Log parsing, enrichment, and normalization
-                                                                          - - Tool Integration - Integrating multiple security and infrastructure tools
-                                                                            - - Scalability & Performance - Designing for high-volume data streams
-                                                                              - - Security Hardening - Secure configuration of logging infrastructure
+  - ## Key Competencies Demonstrated
+      - Enterprise Architecture - Designing large-scale distributed systems
+      - Multi-Environment Design - Supporting cloud, on-prem, and lab infrastructure
+      - Log Pipeline Architecture - End-to-end logging solution design
+      - SIEM Implementation - Security event management system architecture
+      - Cloud Security - Cloud-native security monitoring
+      - Data Processing - Log parsing, enrichment, and normalization
+      - Tool Integration - Integrating multiple security and infrastructure tools
+      - Scalability & Performance - Designing for high-volume data streams
+      - Security Hardening - Secure configuration of logging infrastructure
                                                                                
                                                                                 - ## File Structure
                                                                                
